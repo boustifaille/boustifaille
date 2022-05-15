@@ -2,8 +2,8 @@
 
 ## Languages
 - python
-## Learning
-- javascript
 - HTML
 - CSS
+## Learning
+- javascript
 - C++
