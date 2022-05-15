@@ -7,3 +7,5 @@
 ## Learning
 - javascript
 - C++
+
+Sorry I am not very good in English
