@@ -6,3 +6,4 @@
 - javascript
 - HTML
 - CSS
+- C++
