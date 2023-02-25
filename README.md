@@ -1,11 +1,15 @@
 ### Hi there I'm a beginner programmer
 
-## Languages
-- python
-- HTML
-- CSS
+## Skills
+- Python
+- Java
+- HTML - CSS - Javascript
+- Svelte
+
 ## Learning
-- javascript
 - C++
+- react
+- nodejs
+- Linux
 
 Sorry I am not very good in English
