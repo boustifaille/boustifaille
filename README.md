@@ -4,12 +4,12 @@
 - Python
 - Java
 - HTML - CSS - Javascript
-- Svelte
+- Svelte - React
 
 ## Learning
 - C++
-- react
-- nodejs
+- Rust
+- NodeJS
 - Linux
 
 Sorry I am not very good in English
