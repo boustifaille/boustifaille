@@ -1,15 +1,14 @@
-### Hi there I'm a beginner programmer
+### Hi there I'm a programmer
 
 ## Skills
 - Python
-- Java
-- HTML - CSS - Javascript
-- Svelte - React
+- HTML - CSS - Javascript / Typescript
+- Svelte - React - VueJS
+- Laravel / php
+- PostgreSQL
+- Git
 
 ## Learning
-- C++
-- Rust
-- NodeJS
+- Security
 - Linux
-
-Sorry I am not very good in English
+- English
